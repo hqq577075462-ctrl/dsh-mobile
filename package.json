@@ -222,7 +222,7 @@
     "@types/ws": "8.18.2",
     "core-js": "^3.50.0",
     "js-yaml": "^4.3.2",
-    "playwright": "1.63.0",
+    "playwright": "1.64.0",
     "react": "^18.2.0",
     "tsdown": "^0.23.0",
     "typescript": "^7.0.2",
